@@ -1,0 +1,14 @@
+Atajos Unity 3D:
+
+Click derecho: me muevo en la escena
+Click izquierdo: roto en la escena
+Tecla alt+ click izquierdo+ruedita mouse: zoom
+
+Me muevo en dimension:
+click derecho pulsado + w: para adelante (con la ruedita 
+voy regulando la velocidad de movimiento)
+click derecho pulsado + + s : para atras
+click derecho pulsado + a: para la izquierda
+click derecho + d: para la derecha
+click derecho + q: para abajo
+click derecho + e: para arriba
